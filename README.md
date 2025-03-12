@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ritika Joshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A web development enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikajoshi-2807&label=Profile%20views&color=0e75b6&style=flat" alt="ritikajoshi-2807" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikajoshi-2807" alt="ritikajoshi-2807" /></a> </p>
 
-- 🔭 I’m currently working on [Front End Development Part](https://codepen.io/ritikajoshi-2807/pen/rNYgMdQ)
+- 🔭 I’m currently working on (https://codepen.io/ritikajoshi-2807/pen/rNYgMdQ)
 
-- 🌱 I’m currently learning **Front End Development and some basics of Backend technology**
+- 🌱 I’m currently learning **Full-Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/ritikajoshi-2807](https://codepen.io/ritikajoshi-2807)
 
 - 📝 I regularly write articles on [https://medium.com/@ritikajoshi2807](https://medium.com/@ritikajoshi2807)
 
-- 💬 Ask me about **HTML,CSS and Python**
+- 💬 Ask me about **Coding**
 
 - 📫 How to reach me **ritikajoshi2807@gmail.com**
 
-- ⚡ Fun fact **I love art & music**
+- ⚡ Fun fact **I love to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
