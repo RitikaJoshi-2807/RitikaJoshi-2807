@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritika Joshi</h1>
 <h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://github.com/RitikaJoshi-2807/RitikaJoshi-2807/blob/main/person-playing-3d-video-games-device.jpg" alt="Developer at work" width="600"/>
-</p>
 
 
 <p align="center">
