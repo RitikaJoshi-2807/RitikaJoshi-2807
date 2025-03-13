@@ -2,6 +2,11 @@
 <h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
+  <img src="https://github.com/RitikaJoshi-2807/RitikaJoshi-2807/blob/main/person-playing-3d-video-games-device.jpg" alt="Developer at work" width="600"/>
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ritikajoshi-2807&label=Profile%20views&color=0e75b6&style=flat" alt="ritikajoshi-2807" />
   <img src="https://img.shields.io/github/followers/ritikajoshi-2807?label=Followers&style=social" alt="ritikajoshi-2807" />
 </p>
