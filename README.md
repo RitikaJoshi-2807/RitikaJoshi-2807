@@ -18,7 +18,7 @@
 
 ## 🚀 About Me  
 - 🔭 **I’m currently working on:** [Front End Development Projects](https://codepen.io/ritikajoshi-2807/pen/rNYgMdQ)  
-- 🌱 **Learning:** Frontend Development, **Machine Learning** & **UI/UX**  
+- 🌱 **Learning:** Frontend Development, **Machine Learning** & **Full-Stack Web Development**  
 - 📝 **I write articles on:** [Medium](https://medium.com/@ritikajoshi2807)  
 - 💬 **Ask me about:** Web Development, JavaScript, Vue.js, and Machine Learning  
 - ⚡ **Fun Fact:** I love **art 🎨, music 🎶, and coding 💻**  
@@ -40,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </p>
 
