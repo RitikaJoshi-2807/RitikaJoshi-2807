@@ -1,61 +1,94 @@
 <h1 align="center">Hi 👋, I'm Ritika Joshi</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | B.Tech CSE Final Year</h3>
+
+<h3 align="center">
+  🚀 Computer Science Engineer | AI Enthusiast | Full Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Systems" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 About Me
 
-- 🎓 Final Year B.Tech CSE Student  
-- 💡 Passionate about AI, Machine Learning & Full Stack Development  
-- 🧠 Working on AI-powered healthcare & plant disease detection systems  
-- 🌱 Currently learning Advanced AI Systems & System Design  
-- 📍 India  
-
----
-
-## 🚀 Major Projects
-
-### 🌿 SCAN - Segmentation & Classification with AI Networks
-> AI-based plant disease detection system using ML/DL ensemble + U-Net segmentation  
-- 🔍 7 AI Models (4 DL + 3 ML)  
-- 🧠 Ensemble Learning  
-- 📊 Disease Severity Visualization  
-- 🌐 Flask Web App + Android App  
-
----
-
-### 🏥 Central Healthcare System
-> Full-stack healthcare platform  
-- ⚛️ React Frontend  
-- 🐍 Django Backend  
-- 🗄️ PostgreSQL Database  
-- 🔐 Authentication System  
-
----
-
-### 🗺️ GeoSpatial Soil Information System
-> Interactive soil data visualization system  
-- 🗺️ Leaflet Map Integration  
-- ⚛️ Vue.js Frontend  
-- 🐍 Flask Backend  
-- 🗄️ PostgreSQL  
+- 🎓 Computer Science Engineering Graduate  
+- 💡 Passionate about AI & Scalable Web Systems  
+- 🧠 Strong in DSA, OOP & Backend Development  
+- 🌱 Continuously learning and growing  
+- ⚡ Love turning ideas into real-world applications  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 👩‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask
+### 🌐 Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,django,flask,nodejs,express" />
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,linux,vscode" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 💫 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=ff69b4&style=flat" />
+</p>
+
+<p align="center">
+  ✨ Keep Building. Keep Learning. Keep Growing. ✨
+</p>
