@@ -3,16 +3,18 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 </h1>
 
 <h3 align="center">
-Full Stack Web Developer | AI Enthusiast | Computer Science Engineer
+Computer Science Engineer | Full Stack Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Graduate;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+Architecture+Focused;Building+Scalable+Systems" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Backend-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Profile-Professional-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-success?style=for-the-badge" />
 </p>
 
 ---
 
-## 👩‍💻 Professional Summary
+# 👩‍💻 Professional Summary
 
 I am a Computer Science Engineering graduate with a strong foundation in Data Structures, Algorithms, Object-Oriented Programming, and scalable backend architecture. I am passionate about building intelligent systems and full-stack applications that solve real-world problems efficiently and elegantly.
 
@@ -26,92 +28,68 @@ I am always exploring new technologies, improving my technical depth, and buildi
 
 ---
 
-## 🌍 Professional Information
+# 🌍 Professional Information
 
 - 🌍 Based in India  
-- ✉️ Contact: **ritikajoshi2807@gmail.com**  
+- ✉️ Email: **ritikajoshi2807@gmail.com**  
 - 🎓 Computer Science Engineering Graduate  
-- 🚀 Actively building and refining scalable systems  
-- 📚 Continuous learner in AI & backend systems  
+- 🧠 Strong in DSA, OOP & System Design  
+- 🚀 Focused on AI-driven backend systems  
 
 ---
 
-# 🛠 Technical Expertise
+# 🛠 Technical Stack
 
 ### 👩‍💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,vue,html,css" />
-</p>
+---
 
-### 🖥 Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express" />
-</p>
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🖥 Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
 
 ### 🗄 Databases & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,linux,vscode" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-# 📊 GitHub Analytics
+# 💡 Core Strengths
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🔥 Streak Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🏆 Profile Summary Cards
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=radical" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
+✔ Clean & Maintainable Code  
+✔ REST API Development  
+✔ Database Design & Optimization  
+✔ Backend Architecture  
+✔ AI Model Integration  
+✔ Problem Solving & DSA  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
 ---
 
 <h3 align="center">
-✨ Engineering intelligent systems with clean architecture and scalable design ✨
+✨ Engineering intelligent systems with scalable architecture ✨
 </h3>
