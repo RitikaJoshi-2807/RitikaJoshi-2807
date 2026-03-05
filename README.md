@@ -84,9 +84,7 @@ I am always exploring new technologies, improving my technical depth, and buildi
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=flat" />
-</p>
+
 
 ---
 
