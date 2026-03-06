@@ -34,7 +34,7 @@ I am always exploring new technologies, improving my technical depth, and buildi
 - ✉️ Email: **ritikajoshi2807@gmail.com**  
 - 🎓 Computer Science Engineering Graduate  
 - 🧠 Strong in DSA, OOP & System Design  
-- 🚀 Focused on AI-driven backend systems  
+- 🚀 Focused on backend systems  
 
 ---
 
@@ -69,14 +69,12 @@ I am always exploring new technologies, improving my technical depth, and buildi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 # 💡 Core Strengths
 
 ✔ Clean & Maintainable Code  
-✔ REST API Development  
 ✔ Database Design & Optimization  
 ✔ Backend Architecture  
 ✔ AI Model Integration  
